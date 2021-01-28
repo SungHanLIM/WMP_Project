@@ -26,6 +26,7 @@ g) 연산결과를 UI에 몫과 나머지 필드로 구분하여 출력한다.
 
 ### 3. 테스트 예시
 a) main 화면
+* URL:http://localhost:8080/
 </br><img src="https://user-images.githubusercontent.com/8253200/106139952-77167c00-61b1-11eb-8f2b-066f52d2effb.png" width="40%">
 
 b) Reuqest
